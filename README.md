@@ -160,7 +160,7 @@ So instead of starting with a convolution (weight), we start with a series of (B
 
 ResNet was created with the aim of tackling this exact problem. Deep residual nets make use of residual blocks to improve the accuracy of the models. The concept of “skip connections,” which lies at the core of the residual blocks, is the strength of this type of neural network.
 
-![Data]()
+![Data](resnet50.png)
 
 ## ResNet-34 Architecture
 
